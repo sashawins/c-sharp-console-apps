@@ -1,0 +1,14 @@
+/Users/sasha/Desktop/Учеба/Магистратура/2 семестр/4 Программирование корп. систем/ПР2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2
+/Users/sasha/Desktop/Учеба/Магистратура/2 семестр/4 Программирование корп. систем/ПР2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.deps.json
+/Users/sasha/Desktop/Учеба/Магистратура/2 семестр/4 Программирование корп. систем/ПР2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.runtimeconfig.json
+/Users/sasha/Desktop/Учеба/Магистратура/2 семестр/4 Программирование корп. систем/ПР2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.dll
+/Users/sasha/Desktop/Учеба/Магистратура/2 семестр/4 Программирование корп. систем/ПР2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.pdb
+/Users/sasha/Desktop/Учеба/Магистратура/2 семестр/4 Программирование корп. систем/ПР2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sasha/Desktop/Учеба/Магистратура/2 семестр/4 Программирование корп. систем/ПР2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.AssemblyInfoInputs.cache
+/Users/sasha/Desktop/Учеба/Магистратура/2 семестр/4 Программирование корп. систем/ПР2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.AssemblyInfo.cs
+/Users/sasha/Desktop/Учеба/Магистратура/2 семестр/4 Программирование корп. систем/ПР2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/Users/sasha/Desktop/Учеба/Магистратура/2 семестр/4 Программирование корп. систем/ПР2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.dll
+/Users/sasha/Desktop/Учеба/Магистратура/2 семестр/4 Программирование корп. систем/ПР2/ConsoleApp2/obj/Debug/net9.0/refint/ConsoleApp2.dll
+/Users/sasha/Desktop/Учеба/Магистратура/2 семестр/4 Программирование корп. систем/ПР2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.pdb
+/Users/sasha/Desktop/Учеба/Магистратура/2 семестр/4 Программирование корп. систем/ПР2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.genruntimeconfig.cache
+/Users/sasha/Desktop/Учеба/Магистратура/2 семестр/4 Программирование корп. систем/ПР2/ConsoleApp2/obj/Debug/net9.0/ref/ConsoleApp2.dll
