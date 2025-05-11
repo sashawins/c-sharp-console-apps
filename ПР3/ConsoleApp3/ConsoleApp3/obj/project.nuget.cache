@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "dgSpecHash": "G/A9+TGYSmA=",
+  "success": true,
+  "projectFilePath": "/Users/sasha/Desktop/Учеба/Магистратура/2 семестр/4 Программирование корп. систем/ПР3/ConsoleApp3/ConsoleApp3/ConsoleApp3.csproj",
+  "expectedPackageFiles": [
+    "/Users/sasha/.nuget/packages/microsoft.extensions.configuration/9.0.0-preview.2.24128.5/microsoft.extensions.configuration.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/sasha/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.0-preview.2.24128.5/microsoft.extensions.configuration.abstractions.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/sasha/.nuget/packages/microsoft.extensions.configuration.binder/9.0.0-preview.2.24128.5/microsoft.extensions.configuration.binder.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/sasha/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.0-preview.2.24128.5/microsoft.extensions.dependencyinjection.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/sasha/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0-preview.2.24128.5/microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/sasha/.nuget/packages/microsoft.extensions.logging/9.0.0-preview.2.24128.5/microsoft.extensions.logging.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/sasha/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.0-preview.2.24128.5/microsoft.extensions.logging.abstractions.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/sasha/.nuget/packages/microsoft.extensions.logging.configuration/9.0.0-preview.2.24128.5/microsoft.extensions.logging.configuration.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/sasha/.nuget/packages/microsoft.extensions.logging.console/9.0.0-preview.2.24128.5/microsoft.extensions.logging.console.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/sasha/.nuget/packages/microsoft.extensions.options/9.0.0-preview.2.24128.5/microsoft.extensions.options.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/sasha/.nuget/packages/microsoft.extensions.options.configurationextensions/9.0.0-preview.2.24128.5/microsoft.extensions.options.configurationextensions.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/sasha/.nuget/packages/microsoft.extensions.primitives/9.0.0-preview.2.24128.5/microsoft.extensions.primitives.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/sasha/.nuget/packages/system.text.encodings.web/9.0.0-preview.2.24128.5/system.text.encodings.web.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/sasha/.nuget/packages/system.text.json/9.0.0-preview.2.24128.5/system.text.json.9.0.0-preview.2.24128.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "ConsoleApp3 depends on Microsoft.Extensions.Logging (>= 9.0.0-preview.1.24081.5) but Microsoft.Extensions.Logging 9.0.0-preview.1.24081.5 was not found. Microsoft.Extensions.Logging 9.0.0-preview.2.24128.5 was resolved instead.",
+      "libraryId": "Microsoft.Extensions.Logging",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "ConsoleApp3 depends on Microsoft.Extensions.Logging.Console (>= 9.0.0-preview.1.24081.5) but Microsoft.Extensions.Logging.Console 9.0.0-preview.1.24081.5 was not found. Microsoft.Extensions.Logging.Console 9.0.0-preview.2.24128.5 was resolved instead.",
+      "libraryId": "Microsoft.Extensions.Logging.Console",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
